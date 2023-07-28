@@ -55,3 +55,4 @@ var quizData = [
     },
     ];
       // Export the quizData so that it can be imported in the main JavaScript file
+      window.quizData = quizData
